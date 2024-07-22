@@ -1,4 +1,5 @@
 # LIVROS
+
 Uma lista de livros que >eu< pretendo apresentar a minha sobrinha (irei conferir cada um antes)
 
 > Irei listando aos poucos livros e quando tiver tempo, irei organizar por dificuldade/idade/... talvez até criar uma pagina simples.
@@ -26,10 +27,21 @@ Uma lista de livros que >eu< pretendo apresentar a minha sobrinha (irei conferir
 | Matilda                                  | Roald Dahl          | ---    |
 | O DIÁRIO DE UMA PRINCESA DESASTRADA      | ---                 |        |
 
-
 # JOGOS, BRINQUEDOS & COISINHAS
 
 | Nome                               | Link                              |
 | ---------------------------------- | --------------------------------- |
 | TACO GATO CABRA QUEIJO PIZZA       | [Amazon](amzn.to/46fefaX)         |
 | Quebra cabeça Snoop PEANUTS 500PCS | [Amazon](https://amzn.to/3Y207zT) |
+
+# AUDIOVISUAL
+
+| Titulo                             | Tipo    | Classificação |
+| ---------------------------------- | ------- | ------------- |
+| Steven Universo                    | Desenho | Livre         |
+| She-Ra and the Princesses of Power | Desenho | Livre         |
+| Nimona                             | Desenho | 12+           |
+| Ponyo                              | Desenho | Livre         |
+| O castelo animado                  | Desenho | Livre         |
+| Arriety - O Mundo dos Pequeninos   | Desenho | Livre         |
+| O Serviço de Entregas da Kiki      | Desenho | Livre         |
