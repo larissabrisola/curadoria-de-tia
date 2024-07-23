@@ -1,8 +1,7 @@
+
+> Uma curadoria de livros, brinquedos, qualquer coisa que *eu* achar interessante para minha sobrinha. Acabei com vontade de desenvolver um site para facilitar a inclusão e visualização e irei fazer! Mas aos pouquinhos, passos de tartaruga.. pois preciso ✨ desenferrujar ✨
+
 # LIVROS
-
-Uma lista de livros que >eu< pretendo apresentar a minha sobrinha (irei conferir cada um antes)
-
-> Irei listando aos poucos e quando tiver tempo, irei organizar por dificuldade/idade/... talvez até desenvolver uma pagina simples.
 
 | Titulo                                                                 | Autores             | Status |
 | ---------------------------------------------------------------------- | ------------------- | ------ |
@@ -45,16 +44,12 @@ Uma lista de livros que >eu< pretendo apresentar a minha sobrinha (irei conferir
 | Winnie A Bruxinha                                                      | ------------------- | ------ |
 | A casa sonolenta                                                       | ------------------- | ------ |
 
-
-
 # JOGOS, BRINQUEDOS & COISINHAS
 
 | Nome                               | Link                              |
 | ---------------------------------- | --------------------------------- |
 | TACO GATO CABRA QUEIJO PIZZA       | [Amazon](amzn.to/46fefaX)         |
 | Quebra cabeça Snoop PEANUTS 500PCS | [Amazon](https://amzn.to/3Y207zT) |
-
-
 
 # AUDIOVISUAL
 
