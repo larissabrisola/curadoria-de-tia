@@ -2,30 +2,45 @@
 
 Uma lista de livros que >eu< pretendo apresentar a minha sobrinha (irei conferir cada um antes)
 
-> Irei listando aos poucos livros e quando tiver tempo, irei organizar por dificuldade/idade/... talvez até criar uma pagina simples.
+> Irei listando aos poucos e quando tiver tempo, irei organizar por dificuldade/idade/... talvez até desenvolver uma pagina simples.
 
-| Titulo                                   | Autores             | Status |
-| ---------------------------------------- | ------------------- | ------ |
-| Amoras                                   | Emicida             | OK!    |
-| O menino bruxa                           | Molly Knox Ostertag |        |
-| O Nabo Gigante                           | ---                 |        |
-| O Muro no Meio do Livro                  | ---                 |        |
-| Alfabeto do Cadu                         | ---                 |        |
-| OS DIÁRIOS DE AMORA                      | ---                 |        |
-| A ÁRVORE GENEROSA                        | ---                 |        |
-| O HOMEM QUE AMAVA CAIXAS                 | ---                 |        |
-| PÍPPI MEIALONGA                          | ---                 |        |
-| Pequenas historias para grandes curiosos | ---                 |        |
-| Duvida cruel                             | Manual do mundo     |        |
-| ENTREGAS EXPRESSAS DA KIKI               | ---                 |        |
-| CARONA NA VASSOURA                       | ---                 |        |
-| O grufalo                                | ---                 |        |
-| DR De Soto                               | ---                 |        |
-| Hilda e o gigante                        | ---                 |        |
-| Felpo Filva                              | ---                 |        |
-| Onde esta o BLUEY                        | ---                 |        |
-| Matilda                                  | Roald Dahl          | ---    |
-| O DIÁRIO DE UMA PRINCESA DESASTRADA      | ---                 |        |
+| Titulo                                                                 | Autores             | Status |
+| ---------------------------------------------------------------------- | ------------------- | ------ |
+| Amoras                                                                 | Emicida             | OK!    |
+| O menino bruxa                                                         | Molly Knox Ostertag |        |
+| O Nabo Gigante                                                         | ---                 |        |
+| O Muro no Meio do Livro                                                | ---                 |        |
+| Alfabeto do Cadu                                                       | ---                 |        |
+| OS DIÁRIOS DE AMORA                                                    | ---                 |        |
+| A ÁRVORE GENEROSA                                                      | ---                 |        |
+| O HOMEM QUE AMAVA CAIXAS                                               | ---                 |        |
+| PÍPPI MEIALONGA                                                        | ---                 |        |
+| Pequenas historias para grandes curiosos                               | ---                 |        |
+| Duvida cruel                                                           | Manual do mundo     |        |
+| ENTREGAS EXPRESSAS DA KIKI                                             | ---                 |        |
+| CARONA NA VASSOURA                                                     | ---                 |        |
+| O grufalo                                                              | ---                 |        |
+| DR De Soto                                                             | ---                 |        |
+| Hilda e o gigante                                                      | ---                 |        |
+| Felpo Filva                                                            | ---                 |        |
+| Onde esta o BLUEY                                                      | ---                 |        |
+| Matilda                                                                | Roald Dahl          | ---    |
+| O DIÁRIO DE UMA PRINCESA DESASTRADA                                    | ---                 |        |
+| Mapas: Uma viagem deslumbrante pelas terras, mares e culturas do mundo | ---                 |        |
+| Quando a saudade brilhar                                               | ------------------- | ------ |
+| COMO SERÁ MEU DIA                                                      | ------------------- | ------ |
+| A pedra no caminho                                                     | ------------------- | ------ |
+| O misterio do pau oco                                                  | ------------------- | ------ |
+| Os monstros estão aqui                                                 | ------------------- | ------ |
+| 50 brasileiras incriveis para conhecer antes de crescer                | ------------------- | ------ |
+| E se eu fosse outros?                                                  | ------------------- | ------ |
+| Tic-Tic: o elástico invisível do coração                               | ------------------- | ------ |
+| Um Passeio em Morro Reuter                                             | ------------------- | ------ |
+| SHIRO E AVÓS SAKURA                                                    | ------------------- | ------ |
+| TUIUPÉ E O MARACÁ MÁGICO                                               | ------------------- | ------ |
+| Aporofobia                                                             | ------------------- | ------ |
+
+
 
 # JOGOS, BRINQUEDOS & COISINHAS
 
