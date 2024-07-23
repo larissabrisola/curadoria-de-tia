@@ -39,6 +39,11 @@ Uma lista de livros que >eu< pretendo apresentar a minha sobrinha (irei conferir
 | SHIRO E AVÓS SAKURA                                                    | ------------------- | ------ |
 | TUIUPÉ E O MARACÁ MÁGICO                                               | ------------------- | ------ |
 | Aporofobia                                                             | ------------------- | ------ |
+| E foi assim que eu e a Escuridão ficamos amigas                        | ------------------- | ------ |
+| Ei! Você sabe o que é uma queixada?                                    | ------------------- | ------ |
+| Na toca da tatu Açu                                                    | ------------------- | ------ |
+| Winnie A Bruxinha                                                      | ------------------- | ------ |
+| A casa sonolenta                                                       | ------------------- | ------ |
 
 
 
@@ -48,6 +53,8 @@ Uma lista de livros que >eu< pretendo apresentar a minha sobrinha (irei conferir
 | ---------------------------------- | --------------------------------- |
 | TACO GATO CABRA QUEIJO PIZZA       | [Amazon](amzn.to/46fefaX)         |
 | Quebra cabeça Snoop PEANUTS 500PCS | [Amazon](https://amzn.to/3Y207zT) |
+
+
 
 # AUDIOVISUAL
 
